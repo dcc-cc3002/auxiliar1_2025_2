@@ -4,6 +4,7 @@ object Yapper {
   val farewell:String=""
   def main(args: Array[String]): Unit = {
     println("Hello my fellow memeros")
+    println("Helloholaaa ")
   }
 
   def say(something:String):Unit={
