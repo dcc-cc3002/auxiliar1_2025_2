@@ -1,2 +1,1 @@
-package d
-
+int a = 2;
